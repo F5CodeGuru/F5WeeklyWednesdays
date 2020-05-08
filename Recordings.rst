@@ -1,5 +1,6 @@
 ===============
-Reference Links
+F5 Government Solutions Weekly Wedensdays Recordings
 ===============
 
-- reStructuredText Wikipedia - https://en.wikipedia.org/wiki/ReStructuredText
+- 2019/10/30 - SCCA - https://www.youtube.com/watch?v=vfV7sa_TwpQ
+- 2020/2/2 - SCCA pt 2 - https://www.youtube.com/watch?v=VVrQjSWleP4
